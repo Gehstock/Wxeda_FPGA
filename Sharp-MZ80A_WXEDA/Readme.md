@@ -1,1 +1,1 @@
-![WXEDA Espier 1 with SDCARD Mod](https://github.com/Gehstock/Wxeda_FPGA/blob/master/Common/Espier1.jpg)
+![MZ80A](https://github.com/Gehstock/Wxeda_FPGA/blob/master/Sharp-MZ80A_WXEDA/MZ80A.jpg)
