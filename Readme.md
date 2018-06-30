@@ -1,1 +1,1 @@
-![WXEDA Espier 1 with SDCARD Mod](https://raw.githubusercontent.com/gehstock/Wxeda(Espier1)_FPGA/master/common/Espier1.jpg)
+![WXEDA Espier 1 with SDCARD Mod](https://github.com/Gehstock/Wxeda_FPGA/blob/master/Common/Espier1.jpg)
